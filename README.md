@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6648fdcfbc68b74d9bc39819?variant=dark&roadmaps=android%2Clinux)](https://roadmap.sh)
+
 <!--
 **manu06202579/manu06202579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
