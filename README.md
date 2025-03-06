@@ -41,4 +41,5 @@
 
 ###
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6648fdcfbc68b74d9bc39819?variant=dark&roadmaps=android%2Clinux)](https://roadmap.sh)
+### De roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/66dda0dec46f68d052eda2d7?variant=dark&roadmaps=android%2Cdocker%2Cgame-developer)](https://roadmap.sh)
