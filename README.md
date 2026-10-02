@@ -13,7 +13,7 @@
 ## Sobre mí
 
 - 📱 Interesado en el desarrollo de aplicaciones Android con Kotlin y Java.
-- 🐍 Trabajo también con Python, TypeScript y scripts de Shell.
+- 🐍 Trabajo también con Python y scripts de Shell.
 - 🐧 Usuario de Linux y Debian, con especial interés en la automatización y las herramientas de desarrollo.
 - 🐳 Exploro soluciones basadas en Docker y servicios autohospedados.
 - 🎮 Me interesan los videojuegos, el streaming desde PC y el desarrollo de proyectos prácticos.
@@ -35,14 +35,6 @@
 </p>
 
 ## Proyectos destacados
-
-### [RetroMoonlight](https://github.com/manu-palmero/retromoonlight)
-
-Conjunto de scripts para transmitir juegos desde un PC a RetroPie utilizando Moonlight y generar una biblioteca de juegos accesible desde EmulationStation.
-
-### [Patch-Recovery](https://github.com/manu-palmero/Patch-Recovery)
-
-Servicio basado en GitHub Actions que modifica imágenes `recovery.img` de dispositivos Samsung para habilitar `fastbootd`.
 
 ### [Portfolio](https://github.com/manu-palmero/portfolio)
 
@@ -86,5 +78,5 @@ También puedes consultar mis proyectos de Java, TypeScript, automatización con
 ## Snake de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manu-palmero/manu-palmero/output/snake.svg" alt="Animación de las contribuciones de GitHub" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/manu-palmero/manu-palmero/output/snake.svg" alt="Contribuciones de GitHub" loading="lazy" />
 </p>
