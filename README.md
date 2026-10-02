@@ -63,9 +63,9 @@ También puedes consultar mis proyectos de Java, TypeScript, automatización con
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manu-palmero&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" height="160" alt="Lenguajes más utilizados" loading="lazy" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manu-palmero&theme=gruvbox&no-frame=true&no-bg=true&row=1" alt="Trofeos de GitHub" loading="lazy" />
-</p>
+</p> --> no funciona
 
 ## Mi progreso en roadmap.sh
 
