@@ -65,7 +65,7 @@ También puedes consultar mis proyectos de Java, TypeScript, automatización con
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manu-palmero&theme=gruvbox&no-frame=true&no-bg=true&row=1" alt="Trofeos de GitHub" loading="lazy" />
-</p> --> no funciona
+</p> no funciona --->
 
 ## Mi progreso en roadmap.sh
 
